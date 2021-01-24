@@ -1,0 +1,6 @@
+db: codify_ems
+pass: +2349Yes+2349No
+username:jonasbraham
+
+db_name: id15850574_codify_ems
+db_host: id15850574_jonasbraham
